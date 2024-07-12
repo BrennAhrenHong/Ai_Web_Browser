@@ -1,4 +1,4 @@
-Usage: Setup the .env file first before using it. Input a topic you want to search and it will display a summary and their sources. A log file will be saved in a local folder.
+Usage: Set up the .env file first before using it. Input a topic you want to search and it will display a summary and their sources. A log file will be saved in a local folder.
 
 This application was created using PyQT6, PyQT6-Designer, CrewAI, and Langchain.
 
